@@ -1,0 +1,272 @@
+{
+    "ADMIN": [
+        {
+            "name": "MEHER",
+            "password": "meher123"
+        }
+    ],
+    "STUDENTS": {
+        "CSE": {
+            "1-YEAR": {
+                "1-SEM": [
+                    {
+                        "name": "Aditya",
+                        "password": "123",
+                        "roll_no": "12",
+                        "address": "Hyderabad",
+                        "phone_no": "9528753450"
+                    },
+                    {
+                        "name": "THARUN",
+                        "password": "Tharun123",
+                        "roll_no": "121",
+                        "address": "Narsampet",
+                        "phone_no": "4985734753405"
+                    },
+                    {
+                        "name": "Varun",
+                        "password": "1234",
+                        "roll_no": "34",
+                        "address": "uppal",
+                        "phone_no": "7985268474"
+                    }
+                ],
+                "2-SEM": []
+            },
+            "2-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            },
+            "3-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            },
+            "4-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            }
+        },
+        "CIVIL": {
+            "1-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            },
+            "2-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            },
+            "3-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            },
+            "4-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            }
+        },
+        "MECH": {
+            "1-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            },
+            "2-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            },
+            "3-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            },
+            "4-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            }
+        },
+        "IT": {
+            "1-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            },
+            "2-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            },
+            "3-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            },
+            "4-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            }
+        },
+        "AIML": {
+            "1-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            },
+            "2-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            },
+            "3-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            },
+            "4-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            }
+        },
+        "ECE": {
+            "1-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            },
+            "2-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            },
+            "3-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            },
+            "4-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            }
+        }
+    },
+    "TEACHERS": {
+        "CSE": [
+            {
+                "name": "Aditya",
+                "password": "1234",
+                "emp_id": "152",
+                "phone_no": "9735208623"
+            }
+        ],
+        "CIVIL": [],
+        "MECH": [],
+        "IT": [],
+        "AIML": [],
+        "ECE": []
+    },
+    "BOOKS": {
+        "CSE": {
+            "1-YEAR": {
+                "1-SEM": [
+                    {
+                        "book_no": "12",
+                        "book_name": "Python",
+                        "author": "python programming",
+                        "quantity": 10
+                    }
+                ],
+                "2-SEM": []
+            },
+            "2-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            },
+            "3-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            },
+            "4-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            }
+        },
+        "CIVIL": {
+            "1-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            },
+            "2-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            },
+            "3-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            },
+            "4-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            }
+        },
+        "MECH": {
+            "1-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            },
+            "2-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            },
+            "3-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            },
+            "4-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            }
+        },
+        "IT": {
+            "1-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            },
+            "2-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            },
+            "3-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            },
+            "4-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            }
+        },
+        "AIML": {
+            "1-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            },
+            "2-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            },
+            "3-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            },
+            "4-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            }
+        },
+        "ECE": {
+            "1-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            },
+            "2-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            },
+            "3-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            },
+            "4-YEAR": {
+                "1-SEM": [],
+                "2-SEM": []
+            }
+        }
+    }
+}
