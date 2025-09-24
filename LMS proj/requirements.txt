@@ -1,2 +1,0 @@
-sys = 3.9.0 # same as python version
-json = 2.0.9
